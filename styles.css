@@ -5,10 +5,12 @@ body {
     font-style: normal;
 }
 
+
 .barlow-black-italic {
     font-family: "Barlow", sans-serif;
     font-weight: 900;
     font-style: italic;
+    font-size: 5rem;
 }
 
 .sansation-regular {
